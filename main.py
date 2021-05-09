@@ -4,13 +4,11 @@ two_digit_number = input("Type a two digit number: ")
 
 ####################################
 #Write your code below this line 👇
-number_one = int(two_digit_number[0])
-number_two = int(two_digit_number[1])
+digit_one = int(two_digit_number[0])
+digit_two = int(two_digit_number[1])
 
-number_sum = number_one + number_two
-print(number_sum)
-
-
+digits_sum = digit_one + digit_two
+print(digits_sum)
 
 
 
